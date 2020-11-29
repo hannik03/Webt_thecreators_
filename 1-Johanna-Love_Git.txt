@@ -1,0 +1,44 @@
+I love git
+You Love git
+We love git
+Everyone loves git
+
+But what is git?
+Git is for Version Control
+It is very useful for projects
+Ahhh now I understand
+
+I love git
+You Love git
+We love git
+Everyone loves git
+
+But how do I use git?
+Git is simple
+It is used with diffrent commands
+Ahh now I understand
+
+I love git
+You Love git
+We love git
+Everyone loves git
+
+But witch commands?
+Git has more than 10 commands
+For  example init, clone, push, pull, fetch, merge
+Ahhh now I understand
+
+I love git
+You Love git
+We love git
+Everyone loves git
+
+But what is git init?
+Git init is the first command
+It is used to create a repository
+Ahhh now I understand
+
+I love git
+You Love git
+We love git
+Everyone loves git
