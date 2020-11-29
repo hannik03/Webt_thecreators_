@@ -15,7 +15,7 @@ Everyone loves git
 
 But how do I use git?
 Git is simple
-It is used with diffrent commands
+It is used with different commands
 Ahh now I understand
 
 I love git
