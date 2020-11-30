@@ -1,0 +1,29 @@
+Hey, do you like writing codes?
+Yes?
+Then you need github yooouuh!
+Let's go!
+
+First, let me teach you some commands.
+Let's start with git branch
+create, list,rename and delete
+Yeah branch can do it
+
+Do you know git init?
+It used to start a new repository
+I love it.
+Thats the story.
+
+Hey, do you like writing codes?
+Yes?
+Then you need github yooouuh!
+Let's go!
+
+Now we talk about git commit
+It ecords or snapshots the file permanently in the version history
+It's so cool, I have to admit
+
+Next one is git pull
+It's very useful
+It fetches and merges changes on the remote
+Gives the right note
+
